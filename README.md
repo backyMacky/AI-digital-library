@@ -1,4 +1,5 @@
-Book Metadata Enrichment Tool
+**Book Metadata Enrichment Tool**
+
 A powerful Python tool for enriching book metadata using the Google Books API and web scraping fallbacks. Perfect for librarians, book collectors, and data analysts working with book datasets.
 Features
 
