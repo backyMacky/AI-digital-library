@@ -14,7 +14,7 @@ Features
 
 Installation
 bashCopy# Clone the repository
-git clone https://github.com/yourusername/book-enrichment-tool.git
+git clone https://github.com/backyMacky/AI-digital-library/
 cd book-enrichment-tool
 
 # Install dependencies
