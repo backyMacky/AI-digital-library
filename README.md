@@ -130,4 +130,4 @@ Open a new issue
 Include sample data and full error traceback when reporting bugs
 
 
-Built with ❤️ by [Your Name]
+Built with ❤️ by [Martin B.]
