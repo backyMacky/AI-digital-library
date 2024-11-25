@@ -59,10 +59,10 @@ Ensure you have the following packages installed:
 
    **Example (`books.csv` or `books.xlsx`):**
 
-   | book_name        | isbn           |
-   |------------------|----------------|
-   | The Great Gatsby | 9780743273565  |
-   | 1984             | 9780451524935  |
+   | name             | author         | isbn           |
+   |------------------|----------------|----------------|
+   | The Great Gatsby |   Lex Luthor   | 9780743273565  |
+   | 1984             | George Orwell  | 9780743273565  |
 
 3. **Run the Script**:
 
